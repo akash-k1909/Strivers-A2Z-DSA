@@ -1,0 +1,7 @@
+# Ignore compiled C++ files
+*.exe
+*.o
+*.out
+
+# Ignore VS Code settings (optional but recommended)
+.vscode/
